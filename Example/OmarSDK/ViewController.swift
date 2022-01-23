@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 		
-		omarSDK.checkForSurveys()
+		omarSDK.checkForSurveys { result in print(result) }
     }
 	
 	override func viewDidAppear(_ animated: Bool) {

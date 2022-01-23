@@ -10,42 +10,43 @@
 		005B319B494ED2DAA239B9939A504DFC /* Alamofire-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 232AEA81993A782D036395A7E76B0791 /* Alamofire-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		045DE6EBF9B2F63F60F5BE60C1198E06 /* RedirectHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50AB1C24916D682028695FE189FB604A /* RedirectHandler.swift */; };
 		04A896288CE3A59B530250337A5F8362 /* Result+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E303F43B8A77B1098439AA7483C11E /* Result+Alamofire.swift */; };
-		05A4B3AD266EEA78AC2295D7F7BDC83A /* CheckSurveysResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45BE91AAD51558D6F48CE5194733A314 /* CheckSurveysResponse.swift */; };
 		0685821DA1BE525F16BBCE2CC18DC7B6 /* Pods-OmarSDK_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AC354F0E029AE4F957B1F703105F25E /* Pods-OmarSDK_Tests-dummy.m */; };
 		0F4037DBF307AC8058BD0A3D35C7E7E9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD0CE05D5D076B1B5190EE5DF97FD54E /* Foundation.framework */; };
 		1949219C1895C0C85A80CC33C76C4864 /* Pods-OmarSDK_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 516DCB973F4E42625F7C62F5863BD3E1 /* Pods-OmarSDK_Example-dummy.m */; };
 		1976BB7D7E26A12E29283E71154B63B3 /* SessionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDEF86DB2F034B2435E33314C6B2D948 /* SessionDelegate.swift */; };
 		1EE44196E7BCE57AD96A2C751651EF40 /* AlamofireExtended.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF1F67D4470AC46B80B387ACC74592E /* AlamofireExtended.swift */; };
-		20DE8774279DCED200F15EAA /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DE8773279DCED200F15EAA /* WebViewController.swift */; };
+		21D71346F6F59744FD96F7244D85E19B /* OmarSDK.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AADE4588F01445FC03AF2B4784E46F /* OmarSDK.swift */; };
+		22A45E2A1D3FB882E4CCFC5E4E60BBAE /* OmarSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 94A8B147177AB23C25BEA16C033974DC /* OmarSDK-dummy.m */; };
 		2CBE3651CA006E19F5D64A2DE9B9A028 /* CachedResponseHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDA57764A8E03532C6B4955E87CDD8F /* CachedResponseHandler.swift */; };
 		2CCD13099063CD560E3067BD132914FA /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1774BF767AC3195D750B0871A8FCDFD2 /* Notifications.swift */; };
 		33A7D0F2D03004CE256A75E03DF33C70 /* RetryPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D19944393970C1F09CDC2904AD40A95 /* RetryPolicy.swift */; };
 		3C4059621E23842C19D4EB5D35B41989 /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F0E367AD0EFC79467D657D126B9FBD /* Validation.swift */; };
 		46A64A43AFA057B6B63C8F0C12F509B4 /* Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D611F243BC3328826FE250D806EC26 /* Combine.swift */; };
 		543F2DF17671ECB8403B33737E55CE55 /* Pods-OmarSDK_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 58D65275F286CFBC0532F020B15AE8E5 /* Pods-OmarSDK_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		559029B798D4CF0AEF055486953772A6 /* OmarSDK-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C2B247B769CFE478FDC8B6990F1F3722 /* OmarSDK-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		55AABB1FB38F61A3369ACC555FF3046D /* Alamofire-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F537E69AFE9E127B99581572E13B3DB5 /* Alamofire-dummy.m */; };
 		68FB2DCB4C77DBCAF9A6037E470F2BDE /* ParameterEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DD249F0D0A2E91B343CC78CFEEDBA5 /* ParameterEncoding.swift */; };
 		7483E5327027263F7E4B94A2997191C4 /* AuthenticationInterceptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15D0A888B6B006A1A7EEB01E95E4D87F /* AuthenticationInterceptor.swift */; };
 		75966A9262648D4647D764E3E76BC6AC /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8637848096C1E040096D350A02F8E944 /* Response.swift */; };
-		76C7EC7DB00B6AEEE637756F849FDA69 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD0CE05D5D076B1B5190EE5DF97FD54E /* Foundation.framework */; };
 		7930C94414B4C661867AC4FBE82E996C /* URLEncodedFormEncoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9AD930B7FD9D7787669151B33CC50A /* URLEncodedFormEncoder.swift */; };
 		7B068137A8925891446203B5D3D6A4ED /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D3D57353834825F7B52B816066B7789 /* CFNetwork.framework */; };
 		7E02F5B62BE00E97847DF549FFED2490 /* HTTPHeaders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182033E9A6905A038E4EBCEF9C9F45C0 /* HTTPHeaders.swift */; };
 		7F1BB526AAE3ECDCE90127D9D0E10261 /* StringEncoding+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9429E09ACA40025B318451DB5BBD5429 /* StringEncoding+Alamofire.swift */; };
 		7FE695DA8EE7FF1286556E06B692009B /* MultipartFormData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B9DC57828C893A0DBC04D18ECCE398 /* MultipartFormData.swift */; };
 		808C960C82D708FC1A42C581D6CB4940 /* URLSessionConfiguration+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE13171346B1A07721DCCA31970B8255 /* URLSessionConfiguration+Alamofire.swift */; };
-		812763573A695813AB9BB7040E7D2776 /* BitLabsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF6BA356842E76BD8E252F20B9F2222 /* BitLabsAPI.swift */; };
 		81B8D2B7CEB25C2448B0BC9B33591A65 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0D97FB483508422ACE73BA88223F05 /* Session.swift */; };
 		824D816B1EE404F2DD400EE678695CBE /* ResponseSerialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A35AA383B0322648386EF285798BBD0 /* ResponseSerialization.swift */; };
+		859874628D8A9DBFDDA06C53F85D6055 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA28321DC4F1C265BBD5C1E9EF51AFB /* WebViewController.swift */; };
+		86DCC8922681CBA22C2F6CC5BB5E3CEA /* CheckSurveysResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC96C8AE51892AE291F5F36B479811F3 /* CheckSurveysResponse.swift */; };
 		8D75FC8D7476C9674234F39F1A820D8C /* URLConvertible+URLRequestConvertible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3423DDAB27DA675FAD3F4CEFD00A0087 /* URLConvertible+URLRequestConvertible.swift */; };
 		99D058E53EFEE3AC4857CDE3DBA5C004 /* ParameterEncoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A0F9CBC87264EB1B5B841925808649D /* ParameterEncoder.swift */; };
 		9C9030DEDB0DF955B16FE08C50892D57 /* Concurrency.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55B19C6B7FFB66485714B5DE544E4FC /* Concurrency.swift */; };
+		A196831680DDE4F4F76EC2FF153C7BEE /* OmarSDK-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4ABF5C93A4A0551A5F9861E40C08D1FC /* OmarSDK-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A29100AA1876DDEFF6F54694A51FDB0E /* NetworkReachabilityManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B41CCCDFCF0C04AF8C2DD34A7D594B /* NetworkReachabilityManager.swift */; };
 		A53BDE589BDD6483F3EEDCE5EA1DCCD3 /* Protected.swift in Sources */ = {isa = PBXBuildFile; fileRef = C317CAA4F2337FF0A55F807FA1B1D2A2 /* Protected.swift */; };
 		B3658C29BBDE1033F6269A92E612CB30 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B49B6E385714464DB6F39C69CDCF3AD /* Request.swift */; };
 		B704B198B9B520D449260877E300D821 /* ServerTrustEvaluation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717700B23478BFC9261269EEC9FABE6E /* ServerTrustEvaluation.swift */; };
 		BB08A0B36644CF5247BD7CB44E403675 /* Pods-OmarSDK_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A08312AB6F5D9AC9FFFFCC712382E773 /* Pods-OmarSDK_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BB8385ED776C192B877F77D639B18F04 /* BitLabsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7513AF5B9D0CCD82332428E8416EBE9 /* BitLabsAPI.swift */; };
 		BC0ECA8F22DEDE8886E189CD0EAA1197 /* URLRequest+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F89094F10FCB5CD6FAFD56DF1BE1D1 /* URLRequest+Alamofire.swift */; };
 		CB52DDDF5224D61F3000C309B1297F67 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD0CE05D5D076B1B5190EE5DF97FD54E /* Foundation.framework */; };
 		CEBFFEED65D877702B2F36102528CF6D /* EventMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FEA7D0ABAF694A3F75736158344A91 /* EventMonitor.swift */; };
@@ -54,37 +55,36 @@
 		D6B4751CED01D53E4A1B6A571AAA2F83 /* HTTPMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22772149E6EB9A7609B1C3A69CA7B4F /* HTTPMethod.swift */; };
 		DA34899BEF0668D76CBCE8C4CE47B97B /* RequestTaskMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E761F63EACA04B9944E3B8D8CDAF64C /* RequestTaskMap.swift */; };
 		DD902FE8D6824681C929D028655AE121 /* RequestInterceptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF0A0974AB3647E46E265B59FAFE7DC /* RequestInterceptor.swift */; };
-		E1ADA963026AA6FBCAB26C7BF104590A /* OmarSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 33358F576AC97ECB8085AE69D17500E4 /* OmarSDK-dummy.m */; };
+		E39C759290AF4E99C4DA0C704170A0F2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD0CE05D5D076B1B5190EE5DF97FD54E /* Foundation.framework */; };
 		E54654D504A42C24F284A68F87F7671D /* OperationQueue+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD27E56025A1A7F604285792B21A6B1 /* OperationQueue+Alamofire.swift */; };
 		E9B4C89E7EB3B27D46AFCA452C3D426F /* MultipartUpload.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DFCB8FA58015D2F0126EFB683CD108 /* MultipartUpload.swift */; };
 		EEC150B66BCCD6C80FDA7E4D1975166B /* DispatchQueue+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57628633C1D230EA7BE5C721583E4E7 /* DispatchQueue+Alamofire.swift */; };
 		F17A4CA4664CABB331D39FE902E06843 /* Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5171E9945557BE43DD708B176B63C4 /* Alamofire.swift */; };
-		FB075D4BB972D5046BCC7E561FF5E1D2 /* OmarSDK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DD6C29343DD8EFC470775B23CC7A37 /* OmarSDK.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		3B37F91B74FFDC0FFBC656F84B1768BE /* PBXContainerItemProxy */ = {
+		3C760D3729F1ACE0ECBCD410436BA7DE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EAAA1AD3A8A1B59AB91319EE40752C6D;
+			remoteInfo = Alamofire;
+		};
+		5DDB617E6AEC8A61EDA3E1DAC1B8D1DA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = A8338A1157A02C6CE66CDD5B1EB15FFA;
 			remoteInfo = OmarSDK;
 		};
-		862F4227F3516B72DF4E91661277DDEA /* PBXContainerItemProxy */ = {
+		E183A27B3F57F4C09A96AC7D7DBCD6EC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = EAAA1AD3A8A1B59AB91319EE40752C6D;
 			remoteInfo = Alamofire;
 		};
-		BEB1FA3F99B9DC03031A1D0C28CC3419 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = EAAA1AD3A8A1B59AB91319EE40752C6D;
-			remoteInfo = Alamofire;
-		};
-		DDFC1865CDC6E8365C55D1B21681302D /* PBXContainerItemProxy */ = {
+		EBEB8C0FE42D7C4E51CC56C38DD66BA5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -95,33 +95,29 @@
 
 /* Begin PBXFileReference section */
 		02F0E367AD0EFC79467D657D126B9FBD /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
-		05DD6C29343DD8EFC470775B23CC7A37 /* OmarSDK.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OmarSDK.swift; path = OmarSDK/Classes/Source/OmarSDK.swift; sourceTree = "<group>"; };
 		0A3EB6508561F9676FE95486B422B72D /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
-		0B0AC1F187CA5DF633018571B8324DC3 /* OmarSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = OmarSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		0BF6BA356842E76BD8E252F20B9F2222 /* BitLabsAPI.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BitLabsAPI.swift; path = OmarSDK/Classes/Source/BitLabsAPI.swift; sourceTree = "<group>"; };
 		139F2547C018D0732B00284536491F12 /* Pods-OmarSDK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-OmarSDK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		15D0A888B6B006A1A7EEB01E95E4D87F /* AuthenticationInterceptor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AuthenticationInterceptor.swift; path = Source/AuthenticationInterceptor.swift; sourceTree = "<group>"; };
 		1774BF767AC3195D750B0871A8FCDFD2 /* Notifications.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Notifications.swift; path = Source/Notifications.swift; sourceTree = "<group>"; };
 		182033E9A6905A038E4EBCEF9C9F45C0 /* HTTPHeaders.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTPHeaders.swift; path = Source/HTTPHeaders.swift; sourceTree = "<group>"; };
 		19B9DC57828C893A0DBC04D18ECCE398 /* MultipartFormData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartFormData.swift; path = Source/MultipartFormData.swift; sourceTree = "<group>"; };
 		1A210283A8B6C6FEFE72D90CC81627D9 /* Pods-OmarSDK_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-OmarSDK_Tests-Info.plist"; sourceTree = "<group>"; };
-		1A218AF53A5F541374FDC04F981EE96F /* OmarSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OmarSDK-prefix.pch"; sourceTree = "<group>"; };
 		1B067723B100333F0505E5A97F7646D8 /* Pods-OmarSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-OmarSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
-		20DE8773279DCED200F15EAA /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = WebViewController.swift; path = OmarSDK/Classes/Source/WebViewController.swift; sourceTree = "<group>"; };
 		232AEA81993A782D036395A7E76B0791 /* Alamofire-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-umbrella.h"; sourceTree = "<group>"; };
 		2A35AA383B0322648386EF285798BBD0 /* ResponseSerialization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResponseSerialization.swift; path = Source/ResponseSerialization.swift; sourceTree = "<group>"; };
 		2AC354F0E029AE4F957B1F703105F25E /* Pods-OmarSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-OmarSDK_Tests-dummy.m"; sourceTree = "<group>"; };
-		33358F576AC97ECB8085AE69D17500E4 /* OmarSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "OmarSDK-dummy.m"; sourceTree = "<group>"; };
+		2BDECC846CC1886E2A4366DAFEBEF096 /* OmarSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = OmarSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3423DDAB27DA675FAD3F4CEFD00A0087 /* URLConvertible+URLRequestConvertible.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URLConvertible+URLRequestConvertible.swift"; path = "Source/URLConvertible+URLRequestConvertible.swift"; sourceTree = "<group>"; };
 		3639821F59B8DF58CDC91579B0ADDEE7 /* Pods-OmarSDK_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-OmarSDK_Example"; path = Pods_OmarSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		36A30D0E252B30A70C9815F36B6BBB17 /* Pods-OmarSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-OmarSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3B0D97FB483508422ACE73BA88223F05 /* Session.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Session.swift; path = Source/Session.swift; sourceTree = "<group>"; };
 		42D611F243BC3328826FE250D806EC26 /* Combine.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Combine.swift; path = Source/Combine.swift; sourceTree = "<group>"; };
-		45BE91AAD51558D6F48CE5194733A314 /* CheckSurveysResponse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CheckSurveysResponse.swift; path = OmarSDK/Classes/Source/CheckSurveysResponse.swift; sourceTree = "<group>"; };
 		47DFCB8FA58015D2F0126EFB683CD108 /* MultipartUpload.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartUpload.swift; path = Source/MultipartUpload.swift; sourceTree = "<group>"; };
+		480E440C38191AF9DE00D99C3176DE0F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		4A0F9CBC87264EB1B5B841925808649D /* ParameterEncoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoder.swift; path = Source/ParameterEncoder.swift; sourceTree = "<group>"; };
+		4ABF5C93A4A0551A5F9861E40C08D1FC /* OmarSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OmarSDK-umbrella.h"; sourceTree = "<group>"; };
+		4E2EEF000CDBD25A1C5E080226221E45 /* OmarSDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = OmarSDK.modulemap; sourceTree = "<group>"; };
 		4E5B9D1BF24EE50936B3F03C8A003992 /* Pods-OmarSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OmarSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4FBFC1FC95BAAE616DC57160D631D857 /* OmarSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "OmarSDK-Info.plist"; sourceTree = "<group>"; };
 		50AB1C24916D682028695FE189FB604A /* RedirectHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RedirectHandler.swift; path = Source/RedirectHandler.swift; sourceTree = "<group>"; };
 		516DCB973F4E42625F7C62F5863BD3E1 /* Pods-OmarSDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-OmarSDK_Example-dummy.m"; sourceTree = "<group>"; };
 		53F89094F10FCB5CD6FAFD56DF1BE1D1 /* URLRequest+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URLRequest+Alamofire.swift"; path = "Source/URLRequest+Alamofire.swift"; sourceTree = "<group>"; };
@@ -134,40 +130,44 @@
 		6E761F63EACA04B9944E3B8D8CDAF64C /* RequestTaskMap.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RequestTaskMap.swift; path = Source/RequestTaskMap.swift; sourceTree = "<group>"; };
 		70ABDAD9B31E20BBFCAF6F5BE7C64C95 /* Pods-OmarSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OmarSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		717700B23478BFC9261269EEC9FABE6E /* ServerTrustEvaluation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustEvaluation.swift; path = Source/ServerTrustEvaluation.swift; sourceTree = "<group>"; };
-		8582DF91FF8CDD509173B62E8E1CE50E /* OmarSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OmarSDK.release.xcconfig; sourceTree = "<group>"; };
 		8637848096C1E040096D350A02F8E944 /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
 		8B5171E9945557BE43DD708B176B63C4 /* Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alamofire.swift; path = Source/Alamofire.swift; sourceTree = "<group>"; };
 		8D3D57353834825F7B52B816066B7789 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CFNetwork.framework; sourceTree = DEVELOPER_DIR; };
+		8DA28321DC4F1C265BBD5C1E9EF51AFB /* WebViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WebViewController.swift; path = OmarSDK/Classes/Source/WebViewController.swift; sourceTree = "<group>"; };
 		8E59B14FFDD4D7189C2BA3C42A94BD7F /* Pods-OmarSDK_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-OmarSDK_Tests"; path = Pods_OmarSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F97C4B19A9CA1A849B78C7C9DCE5A63 /* OmarSDK */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = OmarSDK; path = OmarSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9004C2E27B7F9FA32BC9B07CD98CDCE0 /* Alamofire-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Alamofire-Info.plist"; sourceTree = "<group>"; };
 		91762C69C08629CBFD921AEBACE63AED /* AFError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AFError.swift; path = Source/AFError.swift; sourceTree = "<group>"; };
+		941A3D76DE67423D5C979273A45A731B /* OmarSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "OmarSDK-Info.plist"; sourceTree = "<group>"; };
 		9429E09ACA40025B318451DB5BBD5429 /* StringEncoding+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "StringEncoding+Alamofire.swift"; path = "Source/StringEncoding+Alamofire.swift"; sourceTree = "<group>"; };
+		94A8B147177AB23C25BEA16C033974DC /* OmarSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "OmarSDK-dummy.m"; sourceTree = "<group>"; };
 		9CD27E56025A1A7F604285792B21A6B1 /* OperationQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "OperationQueue+Alamofire.swift"; path = "Source/OperationQueue+Alamofire.swift"; sourceTree = "<group>"; };
-		9D216BF4DDDFEA1B4113D6D213C0334F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A08312AB6F5D9AC9FFFFCC712382E773 /* Pods-OmarSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-OmarSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
 		A0FEA7D0ABAF694A3F75736158344A91 /* EventMonitor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EventMonitor.swift; path = Source/EventMonitor.swift; sourceTree = "<group>"; };
 		A22772149E6EB9A7609B1C3A69CA7B4F /* HTTPMethod.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTPMethod.swift; path = Source/HTTPMethod.swift; sourceTree = "<group>"; };
 		A4953B7FBF888C855983463F65AC3E14 /* Alamofire.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Alamofire.debug.xcconfig; sourceTree = "<group>"; };
 		A6E98F732A525F636A28586A78388887 /* Pods-OmarSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-OmarSDK_Tests.modulemap"; sourceTree = "<group>"; };
+		B9425BA2F8D751C0AA107F684D597042 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		B9E1D43B95BF2E2CCC52A8F9ED0B9644 /* Pods-OmarSDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-OmarSDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		BDF1F67D4470AC46B80B387ACC74592E /* AlamofireExtended.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AlamofireExtended.swift; path = Source/AlamofireExtended.swift; sourceTree = "<group>"; };
 		BF8BFCEF917743A3D02D3C68D86737CF /* Pods-OmarSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OmarSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		C2B247B769CFE478FDC8B6990F1F3722 /* OmarSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OmarSDK-umbrella.h"; sourceTree = "<group>"; };
 		C317CAA4F2337FF0A55F807FA1B1D2A2 /* Protected.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Protected.swift; path = Source/Protected.swift; sourceTree = "<group>"; };
 		CA54673C04117E7217B3BCF5628684FF /* Pods-OmarSDK_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-OmarSDK_Example-Info.plist"; sourceTree = "<group>"; };
 		CCDA57764A8E03532C6B4955E87CDD8F /* CachedResponseHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CachedResponseHandler.swift; path = Source/CachedResponseHandler.swift; sourceTree = "<group>"; };
+		CFC5C86CB20A3B0A5F01C803CDC1F7AD /* OmarSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OmarSDK-prefix.pch"; sourceTree = "<group>"; };
 		D0B41CCCDFCF0C04AF8C2DD34A7D594B /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkReachabilityManager.swift; path = Source/NetworkReachabilityManager.swift; sourceTree = "<group>"; };
 		D0DD249F0D0A2E91B343CC78CFEEDBA5 /* ParameterEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoding.swift; path = Source/ParameterEncoding.swift; sourceTree = "<group>"; };
 		DAB3F4DEC660EA4E0D1518B65C6A9A91 /* Alamofire.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Alamofire.release.xcconfig; sourceTree = "<group>"; };
-		DB223FEC8E0DBAC011EA41A9911C4B7A /* OmarSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OmarSDK.debug.xcconfig; sourceTree = "<group>"; };
 		DDEF86DB2F034B2435E33314C6B2D948 /* SessionDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionDelegate.swift; path = Source/SessionDelegate.swift; sourceTree = "<group>"; };
 		DE9AD930B7FD9D7787669151B33CC50A /* URLEncodedFormEncoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLEncodedFormEncoder.swift; path = Source/URLEncodedFormEncoder.swift; sourceTree = "<group>"; };
-		DFAC91B20E601EDFC5C854E0E35966CB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		E2D29B33B8FF85ABC8D160D1FDC5989B /* Pods-OmarSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-OmarSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		E52B2FE5E977C3F0758797E3FE5404CB /* OmarSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OmarSDK.release.xcconfig; sourceTree = "<group>"; };
 		E57628633C1D230EA7BE5C721583E4E7 /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
-		E6BFDE944DD0313E5B67397DFA60B256 /* OmarSDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = OmarSDK.modulemap; sourceTree = "<group>"; };
+		E7513AF5B9D0CCD82332428E8416EBE9 /* BitLabsAPI.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BitLabsAPI.swift; path = OmarSDK/Classes/Source/BitLabsAPI.swift; sourceTree = "<group>"; };
+		EC96C8AE51892AE291F5F36B479811F3 /* CheckSurveysResponse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CheckSurveysResponse.swift; path = OmarSDK/Classes/Source/CheckSurveysResponse.swift; sourceTree = "<group>"; };
+		F0AADE4588F01445FC03AF2B4784E46F /* OmarSDK.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OmarSDK.swift; path = OmarSDK/Classes/Source/OmarSDK.swift; sourceTree = "<group>"; };
+		F0D74E9EE381405773F37DF9628F1C26 /* OmarSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OmarSDK.debug.xcconfig; sourceTree = "<group>"; };
 		F3E303F43B8A77B1098439AA7483C11E /* Result+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Result+Alamofire.swift"; path = "Source/Result+Alamofire.swift"; sourceTree = "<group>"; };
 		F537E69AFE9E127B99581572E13B3DB5 /* Alamofire-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Alamofire-dummy.m"; sourceTree = "<group>"; };
 		F55B19C6B7FFB66485714B5DE544E4FC /* Concurrency.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Concurrency.swift; path = Source/Concurrency.swift; sourceTree = "<group>"; };
@@ -203,11 +203,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		763540F1E17928D760655CA23DBEF157 /* Frameworks */ = {
+		C4559598282ABB443DB90C0D376FC1EE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76C7EC7DB00B6AEEE637756F849FDA69 /* Foundation.framework in Frameworks */,
+				E39C759290AF4E99C4DA0C704170A0F2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,14 +222,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		2353804A2C68EEE7C2B6111FFE514E67 /* Pod */ = {
+		2939FD99650DC421801A51AA29A09F52 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				DFAC91B20E601EDFC5C854E0E35966CB /* LICENSE */,
-				0B0AC1F187CA5DF633018571B8324DC3 /* OmarSDK.podspec */,
-				9D216BF4DDDFEA1B4113D6D213C0334F /* README.md */,
+				4E2EEF000CDBD25A1C5E080226221E45 /* OmarSDK.modulemap */,
+				94A8B147177AB23C25BEA16C033974DC /* OmarSDK-dummy.m */,
+				941A3D76DE67423D5C979273A45A731B /* OmarSDK-Info.plist */,
+				CFC5C86CB20A3B0A5F01C803CDC1F7AD /* OmarSDK-prefix.pch */,
+				4ABF5C93A4A0551A5F9861E40C08D1FC /* OmarSDK-umbrella.h */,
+				F0D74E9EE381405773F37DF9628F1C26 /* OmarSDK.debug.xcconfig */,
+				E52B2FE5E977C3F0758797E3FE5404CB /* OmarSDK.release.xcconfig */,
 			);
-			name = Pod;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/OmarSDK";
 			sourceTree = "<group>";
 		};
 		2B0810928A6319057A946D6BCAD4DD5E /* Support Files */ = {
@@ -247,6 +252,20 @@
 			path = "../Target Support Files/Alamofire";
 			sourceTree = "<group>";
 		};
+		3275BBD1515503A0C3DA88823F4228E7 /* OmarSDK */ = {
+			isa = PBXGroup;
+			children = (
+				E7513AF5B9D0CCD82332428E8416EBE9 /* BitLabsAPI.swift */,
+				EC96C8AE51892AE291F5F36B479811F3 /* CheckSurveysResponse.swift */,
+				F0AADE4588F01445FC03AF2B4784E46F /* OmarSDK.swift */,
+				8DA28321DC4F1C265BBD5C1E9EF51AFB /* WebViewController.swift */,
+				EA5B90C689F811EDF14595A768FB632D /* Pod */,
+				2939FD99650DC421801A51AA29A09F52 /* Support Files */,
+			);
+			name = OmarSDK;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		50E059F58B5B054B8DE891546C804FBC /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -256,21 +275,6 @@
 				8E59B14FFDD4D7189C2BA3C42A94BD7F /* Pods-OmarSDK_Tests */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		5EE44ADADFBE0A6DE9B8F3E9DDD33E11 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				E6BFDE944DD0313E5B67397DFA60B256 /* OmarSDK.modulemap */,
-				33358F576AC97ECB8085AE69D17500E4 /* OmarSDK-dummy.m */,
-				4FBFC1FC95BAAE616DC57160D631D857 /* OmarSDK-Info.plist */,
-				1A218AF53A5F541374FDC04F981EE96F /* OmarSDK-prefix.pch */,
-				C2B247B769CFE478FDC8B6990F1F3722 /* OmarSDK-umbrella.h */,
-				DB223FEC8E0DBAC011EA41A9911C4B7A /* OmarSDK.debug.xcconfig */,
-				8582DF91FF8CDD509173B62E8E1CE50E /* OmarSDK.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/OmarSDK";
 			sourceTree = "<group>";
 		};
 		61C8CC330A5CA84DA2F5F1D32AB07069 /* iOS */ = {
@@ -340,6 +344,7 @@
 				02F0E367AD0EFC79467D657D126B9FBD /* Validation.swift */,
 				2B0810928A6319057A946D6BCAD4DD5E /* Support Files */,
 			);
+			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -367,10 +372,10 @@
 			path = "Target Support Files/Pods-OmarSDK_Tests";
 			sourceTree = "<group>";
 		};
-		BFB07C5B50CF7B217A610D76D8A2BBD1 /* Development Pods */ = {
+		C0829F8876737F28B509743526C3EDCB /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				ECD373D604FA38005DBE1839DD3BE235 /* OmarSDK */,
+				3275BBD1515503A0C3DA88823F4228E7 /* OmarSDK */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -379,7 +384,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				BFB07C5B50CF7B217A610D76D8A2BBD1 /* Development Pods */,
+				C0829F8876737F28B509743526C3EDCB /* Development Pods */,
 				1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */,
 				9F4B67447122FC6BA6080EAA9B88A719 /* Pods */,
 				50E059F58B5B054B8DE891546C804FBC /* Products */,
@@ -387,18 +392,14 @@
 			);
 			sourceTree = "<group>";
 		};
-		ECD373D604FA38005DBE1839DD3BE235 /* OmarSDK */ = {
+		EA5B90C689F811EDF14595A768FB632D /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				0BF6BA356842E76BD8E252F20B9F2222 /* BitLabsAPI.swift */,
-				45BE91AAD51558D6F48CE5194733A314 /* CheckSurveysResponse.swift */,
-				05DD6C29343DD8EFC470775B23CC7A37 /* OmarSDK.swift */,
-				2353804A2C68EEE7C2B6111FFE514E67 /* Pod */,
-				5EE44ADADFBE0A6DE9B8F3E9DDD33E11 /* Support Files */,
-				20DE8773279DCED200F15EAA /* WebViewController.swift */,
+				B9425BA2F8D751C0AA107F684D597042 /* LICENSE */,
+				2BDECC846CC1886E2A4366DAFEBEF096 /* OmarSDK.podspec */,
+				480E440C38191AF9DE00D99C3176DE0F /* README.md */,
 			);
-			name = OmarSDK;
-			path = ../..;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		F93007EBFAE6E174855F368860253A9A /* Targets Support Files */ = {
@@ -429,11 +430,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		81D0BF1BC3286092AEE081C7DE5585D6 /* Headers */ = {
+		6BE103EFC31418DD8E41D1B7A1E30F10 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				559029B798D4CF0AEF055486953772A6 /* OmarSDK-umbrella.h in Headers */,
+				A196831680DDE4F4F76EC2FF153C7BEE /* OmarSDK-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,7 +461,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				134CAD54A7ED2E663E5FE957857ECFB8 /* PBXTargetDependency */,
+				0CA6E7E6DBBE8A58675D4D1792FB1FFB /* PBXTargetDependency */,
 			);
 			name = "Pods-OmarSDK_Tests";
 			productName = Pods_OmarSDK_Tests;
@@ -469,17 +470,17 @@
 		};
 		A8338A1157A02C6CE66CDD5B1EB15FFA /* OmarSDK */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 28E57AB56633B04787C7DF0333FC88FE /* Build configuration list for PBXNativeTarget "OmarSDK" */;
+			buildConfigurationList = 1CE3B99FB34B8ECDB5473A6D97BA30A0 /* Build configuration list for PBXNativeTarget "OmarSDK" */;
 			buildPhases = (
-				81D0BF1BC3286092AEE081C7DE5585D6 /* Headers */,
-				49C6E34B194F715346C95C0DF843DE4E /* Sources */,
-				763540F1E17928D760655CA23DBEF157 /* Frameworks */,
-				FD3D62B7FF7C19160A9A5F04B4E00F00 /* Resources */,
+				6BE103EFC31418DD8E41D1B7A1E30F10 /* Headers */,
+				EE1D323C13D5662AD93C9D55D78C8E23 /* Sources */,
+				C4559598282ABB443DB90C0D376FC1EE /* Frameworks */,
+				602BDBA9ED80B56A55C48CFDE3433D63 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				60BC17E4608D755E749A5405C8F9AED0 /* PBXTargetDependency */,
+				D4D83F80F0974C92114927586F7D864B /* PBXTargetDependency */,
 			);
 			name = OmarSDK;
 			productName = OmarSDK;
@@ -498,8 +499,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				56B7695120F2EC7F8FC19D352F3ADEB0 /* PBXTargetDependency */,
-				4094849BE7F22C657757238B3926496D /* PBXTargetDependency */,
+				4F1EBFF8F0FFC2A1B989C772F19EEE00 /* PBXTargetDependency */,
+				C98450D9D3EDB196860675981B02084A /* PBXTargetDependency */,
 			);
 			name = "Pods-OmarSDK_Example";
 			productName = Pods_OmarSDK_Example;
@@ -562,6 +563,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		602BDBA9ED80B56A55C48CFDE3433D63 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8DD2D87C63DD1B41E5CEAB4E5D383F0B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -576,28 +584,9 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FD3D62B7FF7C19160A9A5F04B4E00F00 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		49C6E34B194F715346C95C0DF843DE4E /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				812763573A695813AB9BB7040E7D2776 /* BitLabsAPI.swift in Sources */,
-				05A4B3AD266EEA78AC2295D7F7BDC83A /* CheckSurveysResponse.swift in Sources */,
-				FB075D4BB972D5046BCC7E561FF5E1D2 /* OmarSDK.swift in Sources */,
-				20DE8774279DCED200F15EAA /* WebViewController.swift in Sources */,
-				E1ADA963026AA6FBCAB26C7BF104590A /* OmarSDK-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5C5178AFF35537AEF3C8D006D314BA0A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -611,6 +600,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				0685821DA1BE525F16BBCE2CC18DC7B6 /* Pods-OmarSDK_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1D323C13D5662AD93C9D55D78C8E23 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB8385ED776C192B877F77D639B18F04 /* BitLabsAPI.swift in Sources */,
+				86DCC8922681CBA22C2F6CC5BB5E3CEA /* CheckSurveysResponse.swift in Sources */,
+				21D71346F6F59744FD96F7244D85E19B /* OmarSDK.swift in Sources */,
+				22A45E2A1D3FB882E4CCFC5E4E60BBAE /* OmarSDK-dummy.m in Sources */,
+				859874628D8A9DBFDDA06C53F85D6055 /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -661,29 +662,29 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		134CAD54A7ED2E663E5FE957857ECFB8 /* PBXTargetDependency */ = {
+		0CA6E7E6DBBE8A58675D4D1792FB1FFB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-OmarSDK_Example";
 			target = A883614522FCA9F9CA989A2C1C633A70 /* Pods-OmarSDK_Example */;
-			targetProxy = DDFC1865CDC6E8365C55D1B21681302D /* PBXContainerItemProxy */;
+			targetProxy = EBEB8C0FE42D7C4E51CC56C38DD66BA5 /* PBXContainerItemProxy */;
 		};
-		4094849BE7F22C657757238B3926496D /* PBXTargetDependency */ = {
+		4F1EBFF8F0FFC2A1B989C772F19EEE00 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Alamofire;
+			target = EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */;
+			targetProxy = E183A27B3F57F4C09A96AC7D7DBCD6EC /* PBXContainerItemProxy */;
+		};
+		C98450D9D3EDB196860675981B02084A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = OmarSDK;
 			target = A8338A1157A02C6CE66CDD5B1EB15FFA /* OmarSDK */;
-			targetProxy = 3B37F91B74FFDC0FFBC656F84B1768BE /* PBXContainerItemProxy */;
+			targetProxy = 5DDB617E6AEC8A61EDA3E1DAC1B8D1DA /* PBXContainerItemProxy */;
 		};
-		56B7695120F2EC7F8FC19D352F3ADEB0 /* PBXTargetDependency */ = {
+		D4D83F80F0974C92114927586F7D864B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Alamofire;
 			target = EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */;
-			targetProxy = BEB1FA3F99B9DC03031A1D0C28CC3419 /* PBXContainerItemProxy */;
-		};
-		60BC17E4608D755E749A5405C8F9AED0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Alamofire;
-			target = EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */;
-			targetProxy = 862F4227F3516B72DF4E91661277DDEA /* PBXContainerItemProxy */;
+			targetProxy = 3C760D3729F1ACE0ECBCD410436BA7DE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -755,6 +756,38 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		1E90CDB6CB0B3FFB6CCC3F1176B63D08 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F0D74E9EE381405773F37DF9628F1C26 /* OmarSDK.debug.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/OmarSDK/OmarSDK-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/OmarSDK/OmarSDK-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/OmarSDK/OmarSDK.modulemap";
+				PRODUCT_MODULE_NAME = OmarSDK;
+				PRODUCT_NAME = OmarSDK;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		21F5BB21819390D14236BABFC8C21992 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -923,38 +956,6 @@
 			};
 			name = Debug;
 		};
-		39698B4BCB440EF7974CB46869E3A09A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DB223FEC8E0DBAC011EA41A9911C4B7A /* OmarSDK.debug.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/OmarSDK/OmarSDK-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/OmarSDK/OmarSDK-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/OmarSDK/OmarSDK.modulemap";
-				PRODUCT_MODULE_NAME = OmarSDK;
-				PRODUCT_NAME = OmarSDK;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		6369C29C8EFB8A4843D75F5DAA746D99 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BF8BFCEF917743A3D02D3C68D86737CF /* Pods-OmarSDK_Example.debug.xcconfig */;
@@ -1044,15 +1045,16 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		BD87F06EFE5AFD77CCFBCD3B74717DFE /* Release */ = {
+		AF9FCD1572D9D1677CE1CA65CFB0443A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8582DF91FF8CDD509173B62E8E1CE50E /* OmarSDK.release.xcconfig */;
+			baseConfigurationReference = E52B2FE5E977C3F0758797E3FE5404CB /* OmarSDK.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1086,20 +1088,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		1CE3B99FB34B8ECDB5473A6D97BA30A0 /* Build configuration list for PBXNativeTarget "OmarSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1E90CDB6CB0B3FFB6CCC3F1176B63D08 /* Debug */,
+				AF9FCD1572D9D1677CE1CA65CFB0443A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2871B2ACEA5D712E8B142F7284CB76D4 /* Build configuration list for PBXNativeTarget "Pods-OmarSDK_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6369C29C8EFB8A4843D75F5DAA746D99 /* Debug */,
 				11F04C8014E6102E3FA100FA191F9B09 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		28E57AB56633B04787C7DF0333FC88FE /* Build configuration list for PBXNativeTarget "OmarSDK" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				39698B4BCB440EF7974CB46869E3A09A /* Debug */,
-				BD87F06EFE5AFD77CCFBCD3B74717DFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

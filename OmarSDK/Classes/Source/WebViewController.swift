@@ -8,6 +8,7 @@
 import Foundation
 import WebKit
 
+/// The ViewController actiing as a container for the WebView
 class WebViewController: UIViewController {
 	
 	override func loadView() {
