@@ -8,18 +8,18 @@
 import Foundation
 
 struct CheckSurveysResponse: Codable {
-	let data: CheckSurveysData
-	let error: CheckSurveysError
+	let data: CheckSurveysData?
+	let error: CheckSurveysError?
 	let status: String
-	let trace_id: String
+	let traceId: String
 }
 
 struct CheckSurveysData: Codable {
-	let has_surveys: Bool
+	let hasSurveys: Bool
 }
 
 struct CheckSurveysError: Codable {
-	let details: CheckSurveysDetails
+	let details: CheckSurveysDetails?
 }
 
 struct CheckSurveysDetails: Codable {
