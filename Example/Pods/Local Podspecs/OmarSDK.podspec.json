@@ -1,0 +1,27 @@
+{
+  "name": "OmarSDK",
+  "version": "0.1.0",
+  "summary": "A short description of OmarSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/O-r-D/OmarSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "O-r-D": "oraad97@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/O-r-D/OmarSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "OmarSDK/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "~> 5.5"
+    ]
+  }
+}

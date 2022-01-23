@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.5.0)
+  - OmarSDK (0.1.0):
+    - Alamofire (~> 5.5)
+
+DEPENDENCIES:
+  - OmarSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  OmarSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  OmarSDK: 228b3aab24a24b855ed1201ffd54e8bc2d424100
+
+PODFILE CHECKSUM: 681a119206f02ca7a47edf2d9e436ce3af90c456
+
+COCOAPODS: 1.11.2

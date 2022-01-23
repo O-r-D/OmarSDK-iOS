@@ -1,0 +1,6 @@
+framework module OmarSDK {
+  umbrella header "OmarSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
