@@ -1,9 +1,9 @@
 {
   "name": "OmarSDK",
   "version": "0.1.0",
-  "summary": "A short description of OmarSDK.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/O-r-D/OmarSDK",
+  "summary": "A little something to show Bitburst",
+  "description": "\"A Very Long description about my SDK... But it's really just to show it to Bitburst :)\"",
+  "homepage": "https://github.com/O-r-D/OmarSDK-iOS",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "O-r-D": "oraad97@gmail.com"
   },
   "source": {
-    "git": "https://github.com/O-r-D/OmarSDK.git",
+    "git": "https://github.com/O-r-D/OmarSDK-iOS.git",
     "tag": "0.1.0"
   },
   "platforms": {
