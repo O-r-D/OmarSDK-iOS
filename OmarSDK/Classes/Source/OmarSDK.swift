@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  OmarSDK.swift
 //  OmarSDK
 //
 //  Created by Omar Raad on 22/01/2022.
@@ -21,5 +21,10 @@ public class OmarSDK {
 	
 	public func checkForSurveys() {
 		bitlabs.checkSurveys(token: token, userId: userId)
+	}
+	
+	public func showSurveys(parent: UIViewController) {
+		let viewController = WebViewController()
+		parent.present(viewController, animated: true)
 	}
 }

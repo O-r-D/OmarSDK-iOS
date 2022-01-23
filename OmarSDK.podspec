@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
 					   
   s.homepage         = 'https://github.com/O-r-D/OmarSDK-iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.swift_version	 = '5.0'
   s.author           = { 'O-r-D' => 'oraad97@gmail.com' }
   s.source           = { :git => 'https://github.com/O-r-D/OmarSDK-iOS.git', :tag => s.version.to_s }
   s.ios.deployment_target = '12.0'
