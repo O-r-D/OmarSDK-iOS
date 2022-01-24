@@ -11,7 +11,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Publishing
 
-OmarSDK is available through for publishing to [CocoaPods](https://cocoapods.org).
+OmarSDK is available for publishing to [CocoaPods](https://cocoapods.org).
 
 ## Author
 
