@@ -9,16 +9,9 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## Publishing
 
-## Installation
-
-OmarSDK is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'OmarSDK'
-```
+OmarSDK is available through for publishing to [CocoaPods](https://cocoapods.org).
 
 ## Author
 
